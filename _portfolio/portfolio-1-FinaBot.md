@@ -21,7 +21,7 @@ I designed the interaction flows and the curated scenarios to explore concepts f
 
 # Feedback
 
-Our project was featured by University of Toronto Faculty of Information in their [newsletter](https://mailchi.mp/2c2da797b9d7/news-and-events-from-the-faculty-of-information-oct2022edition-13719296?e=b448f5288a) and [Twitter]([)https://twitter.com/UofTInfoFaculty/status/1601310882625032193).
+Our project was featured by University of Toronto Faculty of Information in their [newsletter](https://mailchi.mp/2c2da797b9d7/news-and-events-from-the-faculty-of-information-oct2022edition-13719296?e=b448f5288a) and [Twitter](https://twitter.com/UofTInfoFaculty/status/1601310882625032193).
 
 ![](/images/FinaBot-Twitter.png)
 ![](/images/FinaBot-Newsletter.png)
