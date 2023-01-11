@@ -19,9 +19,16 @@ FinaBot has the following capabilities:
 
 I designed the interaction flows and the curated scenarios to explore concepts from academic research. I also implemented the technical aspects of the prototype, such as coding logic for the Arduino device, and ensuring the components incorporated property with the agent's embodiment.
 
+
 ## Feedback
 
-Our project was featured by University of Toronto Faculty of Information in their [newsletter](https://mailchi.mp/2c2da797b9d7/news-and-events-from-the-faculty-of-information-oct2022edition-13719296?e=b448f5288a) and [Twitter](https://twitter.com/UofTInfoFaculty/status/1601310882625032193).
+Questions we wanted our audience to critically reflect on:
+- What is the value of *algorithmic decision compared to *human judgement*?
+- What factors impact human and non-human's *agency to act*?
+- What are the *social norms* when interacting with non-humans / machines?
+- What *information* should or should not be used for financial decisions? What *biases* exist within them?
+
+FinaBot was featured by University of Toronto Faculty of Information in their [newsletter](https://mailchi.mp/2c2da797b9d7/news-and-events-from-the-faculty-of-information-oct2022edition-13719296?e=b448f5288a) and [Twitter](https://twitter.com/UofTInfoFaculty/status/1601310882625032193).
 
 ![](/images/FinaBot-Twitter.png)
 ![](/images/FinaBot-Newsletter.png)
