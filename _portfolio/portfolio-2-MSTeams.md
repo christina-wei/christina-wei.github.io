@@ -36,13 +36,6 @@ Specifically for technology teams using Slack, they have built various integrati
 * "I get notified (on Slack) when someone commits new code, or assigns user stories to me. It's my one place to get all updates."
 * "If I don't know how to do something, I usually just send a message on Slack ot the engineering channel and see if anyone there can help me."
 
-* My community is not on Teams
-* No one is using it - why should I?
-* I already have Skype / Zoom. Why do I need Teams?
-* There are too many productivity tools.
-* I have many integrations into Slack. They are not available on Teams
-* Another capability! How long is this going to last?
-
 ## Pilot
 
 Based on our findings in the discovery phase, we decided to hold a one-month pilot with 10 representative teams across the company including:
