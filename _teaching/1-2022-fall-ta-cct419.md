@@ -3,7 +3,7 @@ title: "Teaching Assistant, UX and Board Games (CCT419)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-ta-cct419
-venue: "University of Toronto Mississaga, ICCIT"
+venue: "University of Toronto Mississauga, ICCIT"
 date: 2022-09-01
 location: "Toronto, Canada"
 ---

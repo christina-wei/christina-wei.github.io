@@ -12,6 +12,8 @@ redirect_from:
 
 ## UX Portfolios
 - [Inspiring UX designe portfolios](https://webflow.com/blog/ux-designer-portfolio)
+- [How to craft an amazing UX design portfolio](https://careerfoundry.com/en/blog/ux-design/ux-design-portfolio-tips/)
+- [How to build a UX research portfolio](https://careerfoundry.com/en/blog/ux-design/ux-research-portfolio-guide/)
 
 ## Cheatsheets
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)

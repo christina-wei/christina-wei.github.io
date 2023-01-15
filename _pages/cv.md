@@ -53,7 +53,7 @@ redirect_from:
   - Managed a cross-functional business analysis team across Canada and US
   - Technical product owner for initiatives within US Retirement and Private Markets business units
 
-- **2011 to 2012: Director, Financial Engineer**
+- **2011 to 2012: Director, Financial Engineering**
   - Nexus Risk Management (asset liability management software)
   - Owned product direction and execution for Hedging Module and Real Time Trading Platform
 

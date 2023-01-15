@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-- First year PhD student at the University of Toronto, supervised by Dr. Anastasia Kuzminykh
+- PhD student at the University of Toronto, supervised by [Dr. Anastasia Kuzminykh](https://www.anastasia-kuzminykh.com/)
 - Areas of interest:
   - Human computer interaction
   - Conversational agents
   - Financial technology
 - I am part of the [COoKIE Lab](https://www.cookiehci.com/)
-- 15 years of professional experience as a product manager in the financial technology sector
+- 15+ years of professional experience as a product manager in the financial technology sector
 
 # News
 
