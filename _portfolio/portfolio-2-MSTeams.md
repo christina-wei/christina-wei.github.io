@@ -18,19 +18,19 @@ I led for the Microsoft Teams rollout initiative, working closely with another d
 
 We conducted initial user interviews to understand user attitudes towards existing productivity tools and how do they feel about adopting a new application. Findings are listed below:
 
-#### Fatigue to learn new applications
+### Fatigue to learn new applications
 
 The company went through a few new software changes recently, such as migrating from Lotus Notes to Microsoft Outlook, and new time management tools. Many individuals are feeling the fatigue to learn new tools. Also, some express skeptism on how long Microsoft Teams will stay around before it is replaced by another application. 
 * "I don't want to learn another new tool"
 * "How long will this new tool last in the company before it gets taken away from us? We change our software every year."
 
-#### Lack of knowledge to use existing workplace tools
+### Lack of knowledge to use existing workplace tools
 
 Given the previous lack of formal rollout plans while introducing new capabilities, many users are not proficient in using existing tools. For exaple, many are confused about the difference between OneDrive and SharePoint. Due to the lack of knowlege, most default to email as their collaboration workflow. There is also confusion on the *evergreen* concept of software, where new capabilities are introduced periodically.
 * "I don't know how to use all these new tools. Like what's the difference between OneDrive and SharePoint?"
 * "The layout in Microsoft Word just changed one day. I couldn't figure out how to use it."
 
-#### Lack of integration across tools
+### Lack of integration across tools
 
 Specifically for technology teams using Slack, they have built various integrations with workplace applications such as connecting to JIRA for user stories, ServiceNow for request internal services (e.g. external firewall requests), and GitHub for code commit / issue updates. There are varous established communities within Slack, such as engineering group for users to share best practices and ask for advice.
 * "I get notified (on Slack) when someone commits new code, or assigns user stories to me. It's my one place to get all updates."
