@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF](/files/Christina%20Wei%20CV%202022%20-%20Academia.pdf)
+[Download PDF](/files/Christina%20Wei%20CV%202023%20-%20Academia.pdf)
 
 ## Education
 
